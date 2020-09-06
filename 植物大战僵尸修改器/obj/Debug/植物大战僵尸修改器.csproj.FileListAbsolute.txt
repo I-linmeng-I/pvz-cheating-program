@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\植物大战僵尸修改器\植物大战僵尸修改器\bin\Debug\植物大战僵尸修改器.exe
+C:\Users\Administrator\source\repos\植物大战僵尸修改器\植物大战僵尸修改器\bin\Debug\植物大战僵尸修改器.pdb
+C:\Users\Administrator\source\repos\植物大战僵尸修改器\植物大战僵尸修改器\obj\Debug\植物大战僵尸修改器.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\植物大战僵尸修改器\植物大战僵尸修改器\obj\Debug\植物大战僵尸修改器.Form1.resources
+C:\Users\Administrator\source\repos\植物大战僵尸修改器\植物大战僵尸修改器\obj\Debug\植物大战僵尸修改器.Properties.Resources.resources
+C:\Users\Administrator\source\repos\植物大战僵尸修改器\植物大战僵尸修改器\obj\Debug\植物大战僵尸修改器.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\植物大战僵尸修改器\植物大战僵尸修改器\obj\Debug\植物大战僵尸修改器.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\植物大战僵尸修改器\植物大战僵尸修改器\obj\Debug\植物大战僵尸修改器.exe
+C:\Users\Administrator\source\repos\植物大战僵尸修改器\植物大战僵尸修改器\obj\Debug\植物大战僵尸修改器.pdb
